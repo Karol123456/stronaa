@@ -1,0 +1,152 @@
+#main-a-id{
+    color:red;
+    font-size: 20px;
+    }
+    
+    #main-a-class{
+    
+    color: rgb(1, 252, 43);
+    }
+
+    .srodeczek {
+        height: 1cm;
+       
+    }
+
+  
+  
+    .btn {
+        background-color: white;
+        border: none;
+        width: 24%;
+        color: black;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        min-width: 90px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+
+.btn:focus{
+    background-color: gray;
+}
+
+.btn:hover {
+background-color: gray;
+
+}
+
+.divWithButton {
+    margin: 5px;
+    width: 100%;
+}
+
+#all {
+    width: 26%;
+    margin: 0 auto;
+}
+ 
+.oboksiebie {
+    
+  display: inline;
+    
+}
+
+.centruje {
+    
+    text-align: center;
+}
+
+.zwierzeta {
+    width: auto;
+}
+
+.registerbutton{
+    background-color: white;
+    border: none;
+    width: 10;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    min-width: 100px;
+    
+}
+
+
+.whitecolor {
+
+
+    background-color: white;
+}
+
+.registerbutton :hover {
+
+    background-color: gray;
+}
+
+.registerbutton:focus {
+
+background-color: gray;
+
+}
+
+.odsiebie {
+
+    width: 26%;
+    margin: 0 auto;
+}
+
+.sroda {
+
+margin-bottom: 2cm;
+}
+
+
+.dol {
+
+    margin-left: 849px;
+    margin-top:  60px;
+    margin-bottom: 7px;
+}
+
+.gora {
+
+    margin-bottom: 28px;
+}
+
+.prawo {
+
+margin-left: 820px;
+margin-bottom: 21px;
+}
+
+.wbok {
+margin-left: 1789px;
+margin-bottom: 1px;
+}
+ 
+.buttontop {
+
+    margin-bottom: 100px;
+    
+}
+
+.buttonfont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
